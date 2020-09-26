@@ -1,14 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    overflow:hidden;
+h1{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:white;
+    text-decoration: skyblue;
+    font-size: smaller;
 }
-#screen{
+.emoji{
     width: 100%;
-    
+}
+body{
     background-color: black;
 }
-#load{
-    width: 100%;
-    background-color:rgb(255, 0, 0)
+div{
+    background: url("https://images3.alphacoders.com/704/704387.png") no-repeat fixed center;
+    width:100%;
 }
