@@ -11,5 +11,11 @@ window.addEventListener('load',function(){
         console.log('window.location.href')
         
     });
+    // for(i=0;i=<document.getElementsByClassName('emoji').length;i++){
+    //     if(document.getElementsByClassName('emoji')[i].innerHTML='<img src=\"./assets/GitHub-Mark-32px.png\">'){
+
+    //     }
+    
+    // }
     
 })
