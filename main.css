@@ -1,72 +1,80 @@
-*{
-    color:white;
+* {
+    color: white;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    
+
     font-size: medium;
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 0;
 }
 
-body{
+body {
     background-color: black;
 }
-h1{
+
+h1 {
     text-align: center;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
     font-size: smaller;
 }
-#load{
-    width:100%;
+
+#load {
+    width: 100%;
     background-color: brown;
 }
-#main{
-    background: url("https://images3.alphacoders.com/704/704387.png") no-repeat local center bottom  40%;
+
+#main {
+    background: url("https://images3.alphacoders.com/704/704387.png") no-repeat local center bottom 40%;
     width: 100%;
-    height:720px;
+    height: 720px;
 }
-#top{
+
+#top {
     background-color: firebrick;
     width: 100%;
-    height:10%;
+    height: 10%;
 }
-#redirect:hover{
-    transition: border ;
-    border: 13px black solid;
 
-}
-#redirect{
-    transition: border linear;
+#redirect {
+    
     font-weight: 400;
     position: relative;
-    top:400px;
-    left:10px;
-    width:52%;
-    margin-top:90px;
+    top: 400px;
+    left: 10px;
+    width: 52%;
+    margin-top: 90px;
     margin: auto;
     display: block;
-    transition: margin-top linear;
-    height:30px;
+    transition: top linear;
+    height: 30px;
     border: 1px pink solid;
-    border-bottom:3px solid black;
+    border-bottom: 3px solid black;
     background-color: black;
     font-size: 20px;
     border-radius: 20px;
     background-color: blueviolet;
     text-align: center;
-    cursor:pointer;
+    cursor: pointer;
 }
 
-#line img{
+#redirect:hover {
+    transition: border ;
+    border: 2px black solid;
+
+}
+
+
+#line img {
     width: 35%;
-    height:100%;
-}
-#line{
-    width: 100%;
-    height:90px;
+    height: 100%;
 }
 
-#logo{
+#line {
+    width: 100%;
+    height: 90px;
+}
+
+#logo {
     width: 10%;
-    height:100%;
+    height: 100%;
 }
