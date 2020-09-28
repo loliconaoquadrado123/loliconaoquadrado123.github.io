@@ -17,5 +17,13 @@ window.addEventListener('load',function(){
     //     }
     
     // }
-    
+    // rainbow=document.getElementsByClassName('rainbow')[0].style.color="#ffffff";
+    // for(i=0;i<="",i++){
+    //     color=rainbow.color.shift();
+    //     color=parseInt(color);
+    //     color++;
+    //     document.getElementsByClassName('rainbow').style.color=color.toString(16).unshift('#');
+    //     return color;
+    // }
+   
 })

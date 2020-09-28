@@ -22,17 +22,22 @@ h1 {
     width: 100%;
     background-color: brown;
 }
-
+.slogan, .slogan span{
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
 #main {
     background: url("https://images3.alphacoders.com/704/704387.png") no-repeat local center bottom 40%;
     width: 100%;
-    height: 720px;
+    height: 600px;
 }
 
 #top {
     background-color: firebrick;
     width: 100%;
-    height: 10%;
+    height: 100px;
 }
 
 #redirect {
@@ -71,10 +76,12 @@ h1 {
 
 #line {
     width: 100%;
-    height: 90px;
 }
-
+#line *{
+    display:inline;
+    margin: 100px;
+}
 #logo {
     width: 10%;
-    height: 100%;
+    
 }
