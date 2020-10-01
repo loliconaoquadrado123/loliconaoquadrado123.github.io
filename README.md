@@ -1,7 +1,3 @@
-<h1>Javascript-Game</h1>
-<h2>A simple javascript game, in basic state, if possible, help this repository, with:
-<p>Physics
-Grafipcs</p>
-</h2>
-<h3>Generous: Plataform,Action</h3>
-<img src="https://svgshare.com/s/NQA" width="100%">
+<h1>Megu Bot Website</h1>
+<h2>
+<img src="https://www.pngkey.com/png/full/147-1472770_angri-megumin-explosions-explosion-megumin-meme.png" width="100%">
